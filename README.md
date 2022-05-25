@@ -1,12 +1,12 @@
 # Name: TBA - Server
 The server for garden management platform. Used to make API requests between clients, webapp and cross-platform apps.
 
-#The Structure
-Framework - Spring Boot
-Database - MongoDB
-Authentication - JWT
+# The Structure
+<li>Framework - Spring Boot</li>
+<li>Database - MongoDB</li>
+<li>Authentication - JWT</li>
 
-#Models
+# Models
 <ul>
   <li>User</li>  
   <li>Account</li>  
